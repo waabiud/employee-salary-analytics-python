@@ -1,4 +1,3 @@
-# employee-salary-analytics-python
 # Employee Salary Analysis and Visualization using Python
 
 This project explores and visualizes an **Employee Salary dataset** to uncover insights about the factors influencing salaries such as education level, work experience, department, and gender.  
